@@ -12,16 +12,4 @@ Here is the link to [clock](https://radhi-hudijan.github.io/JS-and-CSS-Clock/ind
 ---
 
 
-
-## Local Setup
-
-So you're ready to start coding? If you haven't cloned this repository already you should, and then ...
-
-1. Clone this repository:
-   - `$ git clone git@github.com:HackYourFutureBelgium/javascript-30-starter.git`
-2. Navigate to this repository in your local computer
-   - `$ cd javascript-30-starter`
-3. Install the project's development dependencies - you will need these for the code quality automation:
-   - `$ npm install`
-
 ---
