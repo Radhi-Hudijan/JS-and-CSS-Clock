@@ -5,6 +5,7 @@
 # (JS and CSS Clock)
 
 <!-- describe the project -->
+Here is the link to [clock](https://radhi-hudijan.github.io/JS-and-CSS-Clock/index.html) 
 
 ---
 
