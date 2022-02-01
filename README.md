@@ -2,7 +2,7 @@
   to learn more check out https://github.com/hackyourfuturebelgium/javascript-30
 -->
 
-# (name of JS 30 project)
+# (JS and CSS Clock)
 
 <!-- describe the project -->
 
